@@ -1,0 +1,169 @@
+{
+  "main": {
+    "name": "Marzuki",
+    "occupation": "Web Developer",
+    "description": "Full stack Web Developer",
+    "image": "uki.jpg",
+    "bio": "Halo! Nama Saya Marzuki. Saya seorang mahasiswa di UIN SUSKA RIAU.",
+    "contactmessage": "Ketahui lebih lanjut tentangku.",
+    "email": "marzukiberg@gmail.com",
+    "phone": "+6282286062083",
+    "address": {
+      "street": "Jl. Garuda Sakti",
+      "city": "Pekanbaru",
+      "state": "Indonesia",
+      "zip": "28293"
+    },
+    "website": "https://marzukiberg.now.sh",
+    "resumedownload": "https://marzukiberg.now.sh",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/marzukey.ukey.9/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/marzuki-uki-12960a184",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://instagram.com/marzukiberg.js",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/marzukiberg",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Saya memiliki ketertarikan di bidang Software Development, saya menguasai bahasa pemrograman PHP dan Javascript, saya mampu menggunakan framework-framework seperti Codeigniter, Laravel, ReactJS, React Native, NuxtJS, dan NodeJS.",
+    "education": [
+      {
+        "school": "UIN SUSKA RIAU",
+        "degree": "Sarjana Komputer",
+        "graduated": "2021",
+        "description": "Belum Lulus"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "Freelance of Web Development",
+        "years": "April 2020 - Sekarang",
+        "description": "Mengerjakan proyek web dari jauh."
+      },
+      {
+        "company": "UIN SUSKA RIAU",
+        "title": "Mahasiswa",
+        "years": "Juli, 2017 - Sekarang",
+        "description": "Sedang belajar di jurusan Sistem Informasi, Fakultas Sains dan Teknologi."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Codeigniter",
+        "level": "70%"
+      },
+      {
+        "name": "Laravel",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "React Native",
+        "level": "70%"
+      },
+      {
+        "name": "NuxtJS",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Aplikasi Arsip Surat",
+        "category": "Aplikasi pengarsipan surat dengan PHP Codeigniter",
+        "image": "arsipsurat.jpeg",
+        "url": "https://marzukiberg.now.sh/images/arsipsurat.png"
+      },
+      {
+        "title": "Aplikasi Peminjaman Laboratorium",
+        "category": "Dibuat dengan PHP Codeigniter",
+        "image": "siplab.jpeg",
+        "url": "https://marzukiberg.now.sh/images/siplab.png"
+      },
+      {
+        "title": "Aplikasi Apotek",
+        "category": "Aplikasi Apotek dibuat dengan PHP Codeigniter",
+        "image": "apotek.jpeg",
+        "url": "https://marzukiberg.now.sh/images/apotek.png"
+      },
+      {
+        "title": "Web Portofolio",
+        "category": "Website Portofolio Dinamis menggunakan PHP",
+        "image": "portofolio.png",
+        "url": "https://marzukiberg.now.sh/images/portofolio.png"
+      },
+      {
+        "title": "Aplikasi Pengaduan Tenaga Kerja",
+        "category": "dibuat dengan PHP Codeigniter",
+        "image": "pengaduan.jpeg",
+        "url": "https://marzukiberg.now.sh/images/pengaduan.png"
+      },
+      {
+        "title": "Web Profil Rumah Sakit",
+        "category": "dibuat dengan PHP Codeigniter",
+        "image": "rsmadani.png",
+        "url": "https://marzukiberg.now.sh/images/rsmadani.png"
+      },
+      {
+        "title": "Website Bisnis Agen Prudential",
+        "category": "dibuat dengan Javascript NuxtJS",
+        "image": "agenpru.png",
+        "url": "https://marzukiberg.now.sh/images/agenpru.png"
+      },
+      {
+        "title": "Aplikasi Sistem Inevntory",
+        "category": "dibuat dengan PHP Laravel",
+        "image": "inventory.png",
+        "url": "https://marzukiberg.now.sh/images/inventory.png"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Saya senang sekali dengan hasil buatan Marzuki, sempurna.",
+        "user": "Pak Ikhsan, Agen Prudential"
+      },
+      {
+        "text": "Marzuki orang yang lihai dalam pembuatan Web, kemaren saya memesan pembuatan web untuk tugas magang saya dan hasilnya memuaskan.",
+        "user": "Yosie Juniarti, Mahasiswa UIN SUSKA RIAU"
+      }
+    ]
+  }
+}
