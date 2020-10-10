@@ -44,7 +44,7 @@ class Resume extends Component {
         <div className="row education">
           <div className="three columns header-col">
             <h1>
-              <span>Pendidikan</span>
+              <span>Education</span>
             </h1>
           </div>
 
@@ -58,7 +58,7 @@ class Resume extends Component {
         <div className="row work">
           <div className="three columns header-col">
             <h1>
-              <span>Pekerjaan</span>
+              <span>Job</span>
             </h1>
           </div>
 

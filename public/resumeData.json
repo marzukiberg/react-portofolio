@@ -1,18 +1,18 @@
 {
   "main": {
     "name": "Marzuki",
-    "occupation": "Web Developer",
-    "description": "Full stack Web Developer",
+    "occupation": "Fullstack Web Developer",
+    "description": "mostly on front end ",
     "image": "uki.jpg",
-    "bio": "Halo! Nama Saya Marzuki. Saya seorang mahasiswa di UIN SUSKA RIAU.",
-    "contactmessage": "Ketahui lebih lanjut tentangku.",
+    "bio": "Hello! I am Marzuki. I'm a FullStack Web Developer, mostly working on FrontEnd.",
+    "contactmessage": "Get in touch with me.",
     "email": "marzukiberg@gmail.com",
     "phone": "+6282286062083",
     "address": {
-      "street": "Jl. Garuda Sakti",
+      "street": "Delima St.",
       "city": "Pekanbaru",
       "state": "Indonesia",
-      "zip": "28293"
+      "zip": "28291"
     },
     "website": "https://marzukiberg.now.sh",
     "resumedownload": "https://marzukiberg.now.sh",
@@ -40,41 +40,41 @@
     ]
   },
   "resume": {
-    "skillmessage": "Saya memiliki ketertarikan di bidang Software Development, saya menguasai bahasa pemrograman PHP dan Javascript, saya mampu menggunakan framework-framework seperti Codeigniter, Laravel, ReactJS, React Native, NuxtJS, dan NodeJS.",
+    "skillmessage": "I have skills in PHP and JavaScript, and for the frameworks i'm currently using Codeigniter 3, Laravel, NuxtJS, and ReactJS",
     "education": [
       {
         "school": "UIN SUSKA RIAU",
-        "degree": "Sarjana Komputer",
-        "graduated": "2021",
-        "description": "Belum Lulus"
+        "degree": "Computer Science Degree",
+        "graduated": "2017 - Now",
+        "description": "Not Graduated Yet"
       }
     ],
     "work": [
       {
         "company": "Freelancer",
         "title": "Freelance of Web Development",
-        "years": "April 2020 - Sekarang",
-        "description": "Mengerjakan proyek web dari jauh."
+        "years": "April, 2020 - Now",
+        "description": "Working remotely."
       },
       {
         "company": "UIN SUSKA RIAU",
-        "title": "Mahasiswa",
-        "years": "Juli, 2017 - Sekarang",
-        "description": "Sedang belajar di jurusan Sistem Informasi, Fakultas Sains dan Teknologi."
+        "title": "College Student",
+        "years": "Juli, 2017 - Now",
+        "description": "Majoring at Information System Department."
       }
     ],
     "skills": [
       {
-        "name": "Codeigniter",
-        "level": "70%"
+        "name": "Codeigniter 3",
+        "level": "80%"
       },
       {
         "name": "Laravel",
-        "level": "60%"
+        "level": "80%"
       },
       {
         "name": "ReactJs",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "React Native",
@@ -85,16 +85,20 @@
         "level": "70%"
       },
       {
+        "name": "Bootstrap",
+        "level": "75%"
+      },
+      {
         "name": "CSS",
         "level": "95%"
       },
       {
         "name": "Git",
-        "level": "50%"
+        "level": "70%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "MySQL",
@@ -105,64 +109,112 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Aplikasi Arsip Surat",
-        "category": "Aplikasi pengarsipan surat dengan PHP Codeigniter",
+        "title": "10fastfingers Clone",
+        "category": "Just a simple app looks like 10fastfingers and some functionalities, Made with HTML, CSS, and Javascript",
+        "image": "10ff-clone.png",
+        "url": "https://typing-speed-test.vercel.app"
+      },
+      {
+        "title": "Photo Filter With ReactJS",
+        "category": "Just a simple app that lets you filter an Image from your local storage, Made with ReactJS",
+        "image": "photo-filter-react.png",
+        "url": "https://photo-filter-react.now.sh"
+      },
+      {
+        "title": "Amazon Clone ReactJS",
+        "category": "Just a simple app looks like Amazon and a bit functionality, Made with ReactJS + Firebase",
+        "image": "amazon-clone.png",
+        "url": "https://challenge-a6438.web.app/"
+      },
+      {
+        "title": "Whatsapp Clone ReactJS",
+        "category": "Just a simple app looks like Whatsapp and a bit functionality, Made with ReactJS + Firebase",
+        "image": "whatsapp-clone.png",
+        "url": "https://whatsapp-clone-marzukiberg.vercel.app/"
+      },
+      {
+        "title": "Codepen Clone ReactJS",
+        "category": "Just a simple app looks like codepen and a bit funcitonality, Made with ReactJS",
+        "image": "codepen-clone.png",
+        "url": "https://codepen-clone.vercel.app/"
+      },
+      {
+        "title": "Piano Web",
+        "category": "Just a simple app that lets you play Piano on the webpage, Made with Javascript",
+        "image": "javascript-piano.png",
+        "url": "https://javascript-piano-nu.vercel.app/"
+      },
+      {
+        "title": "Shipping Bill Checker Mobile",
+        "category": "Just a simple mobile app that lets you check shipping bill in Indonesia, Made with React Native",
+        "image": "cek-ongkir-mobile.png",
+        "url": "https://github.com/marzukiberg/Simple-Cek-Ongkir-App-React-Native-Expo-"
+      },
+      {
+        "title": "Send2Whatsapp",
+        "category": "Just a simple app that lets you send message to unsaved number in your contact, Made with Javascript",
+        "image": "send2whatsapp.png",
+        "url": "https://send2whatsapp.now.sh"
+      },
+      {
+        "title": "Message Archiving",
+        "category": "A Web system that lets you manage message archiving, Made with Codeigniter 3",
         "image": "arsipsurat.jpeg",
-        "url": "https://marzukiberg.now.sh/images/arsipsurat.png"
+        "url": "http://demo-arsipsurat-uki.epizy.com/"
       },
       {
-        "title": "Aplikasi Peminjaman Laboratorium",
-        "category": "Dibuat dengan PHP Codeigniter",
+        "title": "Lab Booking System",
+        "category": "A Web system that lets you manage message archiving, Made with Codeigniter 3",
         "image": "siplab.jpeg",
-        "url": "https://marzukiberg.now.sh/images/siplab.png"
+        "url": "https://github.com/marzukiberg/aplikasi-peminjaman-ruangan-laboratorium"
       },
       {
-        "title": "Aplikasi Apotek",
-        "category": "Aplikasi Apotek dibuat dengan PHP Codeigniter",
+        "title": "Drugstore Admin",
+        "category": "A Web system that lets you manage your drugstore, Made with Codeigniter 3",
         "image": "apotek.jpeg",
-        "url": "https://marzukiberg.now.sh/images/apotek.png"
+        "url": "https://github.com/marzukiberg/sistem-informasi-apotek-codeigniter"
       },
       {
-        "title": "Web Portofolio",
-        "category": "Website Portofolio Dinamis menggunakan PHP",
+        "title": "Portofolio Website",
+        "category": "A simple Web system that lets you manage your portofolio, Made with PHP Native",
         "image": "portofolio.png",
-        "url": "https://marzukiberg.now.sh/images/portofolio.png"
+        "url": "https://res.cloudinary.com/uki14/image/upload/v1602297080/portofolio/portofolio_dp20me.png"
       },
       {
-        "title": "Aplikasi Pengaduan Tenaga Kerja",
-        "category": "dibuat dengan PHP Codeigniter",
+        "title": "Workers Complaintment System",
+        "category": "A Web system that lets you manage workers complainment, Made with PHP Codeigniter",
         "image": "pengaduan.jpeg",
-        "url": "https://marzukiberg.now.sh/images/pengaduan.png"
+        "url": "https://res.cloudinary.com/uki14/image/upload/v1602297079/portofolio/pengaduan_n1a5no.jpg"
       },
       {
-        "title": "Web Profil Rumah Sakit",
-        "category": "dibuat dengan PHP Codeigniter",
+        "title": "Hospital Company Profile Website",
+        "category": "A Web system and company profile for Hospital, Made with Codeigniter",
         "image": "rsmadani.png",
-        "url": "https://marzukiberg.now.sh/images/rsmadani.png"
+        "url": "https://res.cloudinary.com/uki14/image/upload/v1602297080/portofolio/rsmadani_iuaear.png"
       },
       {
-        "title": "Website Bisnis Agen Prudential",
-        "category": "dibuat dengan Javascript NuxtJS",
+        "title": "Business Landing Page of Agen Prudential",
+        "category": "A landing page for agen prudential, Made with Javascript NuxtJS",
         "image": "agenpru.png",
-        "url": "https://marzukiberg.now.sh/images/agenpru.png"
+        "url": "https://al-ikhsanprusyariah.now.sh/"
       },
       {
-        "title": "Aplikasi Sistem Inevntory",
-        "category": "dibuat dengan PHP Laravel",
+        "title": "Inventory System",
+        "category": "A Web system that lets you manage your inveontry, Made with PHP Laravel",
         "image": "inventory.png",
-        "url": "https://marzukiberg.now.sh/images/inventory.png"
+        "url": "https://github.com/marzukiberg/inventory-laravel"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Saya senang sekali dengan hasil buatan Marzuki, sempurna.",
-        "user": "Pak Ikhsan, Agen Prudential"
+        "text": "I was very love with Marzuki's works and his responsibilty, good job!.",
+        "user": "Mr. Ikhsan, Agen Prudential"
       },
       {
-        "text": "Marzuki orang yang lihai dalam pembuatan Web, kemaren saya memesan pembuatan web untuk tugas magang saya dan hasilnya memuaskan.",
-        "user": "Yosie Juniarti, Mahasiswa UIN SUSKA RIAU"
+        "text": "Marzuki is an expert in Web Development, i have ordered a web system and the final result is very satisfying me.",
+        "user": "Yosie Juniarti, College Students of UIN SUSKA RIAU"
       }
     ]
   }

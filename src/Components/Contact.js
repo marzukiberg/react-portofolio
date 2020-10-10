@@ -21,7 +21,7 @@ const Contact = ({ data }) => {
       <div className="row section-head">
         <div className="two columns header-col">
           <h1>
-            <span>Hubungi saya.</span>
+            <span>Get in touch with me.</span>
           </h1>
         </div>
 
@@ -36,7 +36,7 @@ const Contact = ({ data }) => {
             <fieldset>
               <div>
                 <label htmlFor="contactName">
-                  Nama <span className="required">*</span>
+                  Name <span className="required">*</span>
                 </label>
                 <input
                   value={name}
@@ -65,7 +65,7 @@ const Contact = ({ data }) => {
               </div>
 
               <div>
-                <label htmlFor="contactSubject">Subyek</label>
+                <label htmlFor="contactSubject">Subject</label>
                 <input
                   value={subject}
                   type="text"
@@ -79,7 +79,7 @@ const Contact = ({ data }) => {
 
               <div>
                 <label htmlFor="contactMessage">
-                  Pesan <span className="required">*</span>
+                  Message <span className="required">*</span>
                 </label>
                 <textarea
                   value={message}
@@ -93,7 +93,7 @@ const Contact = ({ data }) => {
 
               <div>
                 <button type="submit" onClick={handleClick} className="submit">
-                  Kirim
+                  Send
                 </button>
                 <span id="image-loader">
                   <img alt="" src="images/loader.gif" />
@@ -104,14 +104,14 @@ const Contact = ({ data }) => {
 
           <div id="message-warning"> Error boy</div>
           <div id="message-success">
-            <i className="fa fa-check"></i>Pesanmu terkirim, terimakasih!
+            <i className="fa fa-check"></i>Your message was sent, thank you!
             <br />
           </div>
         </div>
 
         <aside className="four columns footer-widgets">
           <div className="widget widget_contact">
-            <h4>Alamat dan Nomor telepon</h4>
+            <h4>Address and Phone Number</h4>
             <p className="address">
               {data?.name}
               <br />
