@@ -109,6 +109,48 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Inventory System",
+        "category": "A Web system that lets you manage your inveontry, Made with PHP Laravel",
+        "image": "inventory.png",
+        "url": "https://github.com/marzukiberg/inventory-laravel"
+      },
+      {
+        "title": "Message Archiving",
+        "category": "A Web system that lets you manage message archiving, Made with Codeigniter 3",
+        "image": "arsipsurat.jpeg",
+        "url": "http://demo-arsipsurat-uki.epizy.com/"
+      },
+      {
+        "title": "Lab Booking System",
+        "category": "A Web system that lets you manage message archiving, Made with Codeigniter 3",
+        "image": "peminjaman.png",
+        "url": "https://github.com/marzukiberg/aplikasi-peminjaman-ruangan-laboratorium"
+      },
+      {
+        "title": "Drugstore Admin",
+        "category": "A Web system that lets you manage your drugstore, Made with Codeigniter 3",
+        "image": "apotek.jpeg",
+        "url": "https://github.com/marzukiberg/sistem-informasi-apotek-codeigniter"
+      },
+      {
+        "title": "Workers Complaintment System",
+        "category": "A Web system that lets you manage workers complainment, Made with PHP Codeigniter",
+        "image": "pengaduan.png",
+        "url": "https://res.cloudinary.com/uki14/image/upload/v1602297079/portofolio/pengaduan_n1a5no.jpg"
+      },
+      {
+        "title": "Hospital Company Profile Website",
+        "category": "A Web system and company profile for Hospital, Made with Codeigniter",
+        "image": "rumahsakit.png",
+        "url": "https://res.cloudinary.com/uki14/image/upload/v1602297080/portofolio/rsmadani_iuaear.png"
+      },
+      {
+        "title": "Business Landing Page of Agen Prudential",
+        "category": "A landing page for agen prudential, Made with Javascript NuxtJS",
+        "image": "agenpru.png",
+        "url": "https://al-ikhsanprusyariah.now.sh/"
+      },
+      {
         "title": "10fastfingers Clone",
         "category": "Just a simple app looks like 10fastfingers and some functionalities, Made with HTML, CSS, and Javascript",
         "image": "10ff-clone.png",
@@ -117,7 +159,7 @@
       {
         "title": "Photo Filter With ReactJS",
         "category": "Just a simple app that lets you filter an Image from your local storage, Made with ReactJS",
-        "image": "photo-filter-react.png",
+        "image": "photo filter.png",
         "url": "https://photo-filter-react.now.sh"
       },
       {
@@ -129,7 +171,7 @@
       {
         "title": "Whatsapp Clone ReactJS",
         "category": "Just a simple app looks like Whatsapp and a bit functionality, Made with ReactJS + Firebase",
-        "image": "whatsapp-clone.png",
+        "image": "whatsapp.png",
         "url": "https://whatsapp-clone-marzukiberg.vercel.app/"
       },
       {
@@ -139,10 +181,10 @@
         "url": "https://codepen-clone.vercel.app/"
       },
       {
-        "title": "Piano Web",
-        "category": "Just a simple app that lets you play Piano on the webpage, Made with Javascript",
-        "image": "javascript-piano.png",
-        "url": "https://javascript-piano-nu.vercel.app/"
+        "title": "Realtime Chat",
+        "category": "Just a simple app that lets you send message between connected users in the web, made with Socket.IO and NodeJS",
+        "image": "realtime chat.png",
+        "url": "https://chat-socket-uki.herokuapp.com"
       },
       {
         "title": "Shipping Bill Checker Mobile",
@@ -157,52 +199,16 @@
         "url": "https://send2whatsapp.now.sh"
       },
       {
-        "title": "Message Archiving",
-        "category": "A Web system that lets you manage message archiving, Made with Codeigniter 3",
-        "image": "arsipsurat.jpeg",
-        "url": "http://demo-arsipsurat-uki.epizy.com/"
-      },
-      {
-        "title": "Lab Booking System",
-        "category": "A Web system that lets you manage message archiving, Made with Codeigniter 3",
-        "image": "siplab.jpeg",
-        "url": "https://github.com/marzukiberg/aplikasi-peminjaman-ruangan-laboratorium"
-      },
-      {
-        "title": "Drugstore Admin",
-        "category": "A Web system that lets you manage your drugstore, Made with Codeigniter 3",
-        "image": "apotek.jpeg",
-        "url": "https://github.com/marzukiberg/sistem-informasi-apotek-codeigniter"
+        "title": "Piano Web",
+        "category": "Just a simple app that lets you play Piano on the webpage, Made with Javascript",
+        "image": "web piano.png",
+        "url": "https://javascript-piano-nu.vercel.app/"
       },
       {
         "title": "Portofolio Website",
         "category": "A simple Web system that lets you manage your portofolio, Made with PHP Native",
-        "image": "portofolio.png",
+        "image": "web portofolio.png",
         "url": "https://res.cloudinary.com/uki14/image/upload/v1602297080/portofolio/portofolio_dp20me.png"
-      },
-      {
-        "title": "Workers Complaintment System",
-        "category": "A Web system that lets you manage workers complainment, Made with PHP Codeigniter",
-        "image": "pengaduan.jpeg",
-        "url": "https://res.cloudinary.com/uki14/image/upload/v1602297079/portofolio/pengaduan_n1a5no.jpg"
-      },
-      {
-        "title": "Hospital Company Profile Website",
-        "category": "A Web system and company profile for Hospital, Made with Codeigniter",
-        "image": "rsmadani.png",
-        "url": "https://res.cloudinary.com/uki14/image/upload/v1602297080/portofolio/rsmadani_iuaear.png"
-      },
-      {
-        "title": "Business Landing Page of Agen Prudential",
-        "category": "A landing page for agen prudential, Made with Javascript NuxtJS",
-        "image": "agenpru.png",
-        "url": "https://al-ikhsanprusyariah.now.sh/"
-      },
-      {
-        "title": "Inventory System",
-        "category": "A Web system that lets you manage your inveontry, Made with PHP Laravel",
-        "image": "inventory.png",
-        "url": "https://github.com/marzukiberg/inventory-laravel"
       }
     ]
   },

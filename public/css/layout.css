@@ -471,9 +471,7 @@ ul#nav li.current a {
 
 #portfolio-wrapper {
   display: flex;
-  /* background-color: rebeccapurple; */
   justify-content: center;
-  gap: 5px;
   flex-wrap: wrap;
 }
 
@@ -482,9 +480,10 @@ ul#nav li.current a {
   margin-bottom: 36px;
 }
 .portfolio-item .item-wrap {
-  background: #0f0f0f;
-  height: 250px;
-  width: 250px;
+  display: flex;
+  width: 230px;
+  justify-content: center;
+  align-items: center;
   overflow: hidden;
   position: relative;
 
